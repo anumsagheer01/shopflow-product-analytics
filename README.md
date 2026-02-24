@@ -112,10 +112,11 @@ shopflow-analytics/
 ![Churn Model](docs/churn_model.png)
 
 ### Power BI Preview
-![Executive Summary](docs/power bi-executive summary.png)
-![Funnel and Operations](docs/power bi-funnel and operations.png)
-![A/B Testing](docs/power bi-testing.png)
+![Executive Summary](docs/powerbi_executive_summary.png)
 
+![Funnel and Operations](docs/powerbi_funnel_operations.png)
+
+![A/B Testing](docs/powerbi_ab_testing.png)
 
 ### How to run this project
 
