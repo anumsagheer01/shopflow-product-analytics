@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials 
+*.env
+secrets.py
+snowflake_config.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files
+data/raw/*.csv
+*.parquet

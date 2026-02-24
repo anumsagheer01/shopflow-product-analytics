@@ -1,0 +1,10 @@
+pandas==3.0.1
+matplotlib==3.10.0
+seaborn==0.13.2
+snowflake-connector-python==3.12.3
+python-dotenv==1.0.1
+scikit-learn==1.8.0
+statsmodels==0.14.4
+scipy==1.15.2
+ipykernel==6.29.5
+jupyter==1.1.1
