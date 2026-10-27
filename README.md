@@ -92,7 +92,6 @@ shopflow-analytics/
 │   ├── cohort_analysis.png
 │   ├── ab_test_results.png
 │   └── churn_model.png
-├── .env.example
 ├── requirements.txt
 └── README.md
 ```
