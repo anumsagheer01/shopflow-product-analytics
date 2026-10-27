@@ -122,7 +122,7 @@ shopflow-analytics/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/anumsagheer01/shopflow-analytics
+git clone https://github.com/anumsagheer01/shopflow-product-analytics
 cd shopflow-analytics
 ```
 
